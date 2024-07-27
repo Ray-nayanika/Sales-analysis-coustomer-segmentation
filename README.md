@@ -1,1 +1,1 @@
-# Sales-analysis-coustomer-segmentation
+# Sales-analysis-customer-segmentation
