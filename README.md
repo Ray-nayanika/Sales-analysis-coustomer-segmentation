@@ -15,5 +15,13 @@ Mapped Sales Distribution: Designed a fill map to represent sales by location, u
 Analyzed Purchases by Location: Developed a horizontal bar chart to display total purchases by location, segmented by category, to provide a detailed view of geographic and category-wise sales distribution.
 
 Enhanced User Experience: Utilized advanced DAX functions and data modeling techniques to improve data interaction and reporting, facilitating better decision-making.
+![sales analysis](https://github.com/user-attachments/assets/7c5c0821-9e86-40a2-955e-4b832d3ec030)
+
+Now, Customer segmentation:
+Customer segmentation in sales involves dividing customers into distinct groups based on various criteria. This process allows companies to create more personalized experiences and tailor sales and marketing strategies for specific customer groups. The steps for customer segmentation include:
+Determine your goals.
+Define your parameters for segmentation.
+Collect relevant data.
+Create customer groups
 
 
