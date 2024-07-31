@@ -18,7 +18,7 @@ Analyzed Purchases by Location: Developed a horizontal bar chart to display tota
 
 Enhanced User Experience: Utilized advanced DAX functions and data modeling techniques to improve data interaction and reporting, facilitating better decision-making.
 
-![sales analysis](https://github.com/user-attachments/assets/7c5c0821-9e86-40a2-955e-4b832d3ec030)
+![sales1](https://github.com/user-attachments/assets/aeb31f75-ca11-49ed-be3d-3deb057f4247)
 
 Customer segmentation in sales involves dividing customers into distinct groups based on various criteria. This process allows companies to create more personalized experiences and tailor sales and marketing strategies for specific customer groups. The steps for customer segmentation include:
 
